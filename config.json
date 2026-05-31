@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderralidate",
+        "uuid": 3550190,
+        "checksum": "94l4gm"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
